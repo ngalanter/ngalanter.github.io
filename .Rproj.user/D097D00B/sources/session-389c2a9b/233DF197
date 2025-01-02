@@ -3,7 +3,7 @@
     "path": "C:/Users/ninag/Documents/ngalanter.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2847220236",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1735762951004.0,
@@ -17,15 +17,15 @@
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
         "rmdVisualModeLocation": "124:0",
-        "cursorPosition": "15,330",
+        "cursorPosition": "11,34",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1735785488,
+    "lastKnownWriteTime": 1735786109,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1735785488509,
+    "last_content_update": 1735786109384,
     "read_only": false,
     "read_only_alternatives": []
 }

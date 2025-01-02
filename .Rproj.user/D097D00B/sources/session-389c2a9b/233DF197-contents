@@ -1,12 +1,17 @@
 ---
-title: "Nina Galanter (she/they)"
+title: "Nina Galanter"
+subtitle: "she/they"
 about:
   template: solana
   image: ng_pic.jpg
   image-width: 10em
   image-shape: round
   links:
-    - text: Google Scholar
+    - icon: envelope
+      text: Email
+      href: mailto:galanter@uw.edu
+    - icon: mortarboard-fill 
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=382zhZMAAAAJ&hl=en
     - icon: github
       text: Github
