@@ -1,0 +1,49 @@
+---
+title: "Teaching"
+---
+
+### Instructor
+
+**BIOST 311: Regression Methods in the Health Sciences**, University of Washington, Spring 2023, [Course materials](https://github.com/ngalanter/BIOST311_2023)
+
+### Mentor
+
+[**Statistics Directed Reading Program**](https://spa-drp.github.io/), University of Washington
+
+- Winter 2025 Topic: Target Trial Framework for Causal Inference
+
+- Winter and Fall 2023 Topic: Survival Analysis 
+
+- Winter and Spring 2022 Topic: Optimal Treatment Rules
+
+### Teaching Assistant
+
+**BIOST 536: Categorical Data Analysis in Epidemiology**, University of Washington, Fall 2024
+
+**Introduction to Survival Analysis**, University of Washington Summer Institute in Statistics for Clinical & Epidemiological Research, Summer 2024
+
+**BIOST 537: Survival Data Analysis in Epidemiology**, University of Washington, Winter 2023
+
+**BIOST 310: Biostatistics for the Health Sciences**, University of Washington, Winter 2022, Winter 2020, Fall 2019
+
+### Teaching Related Service
+
+**University of Washington**
+
+- Member of Biostatistics Department Curriculum Committee 2023-24 and 2024-25
+
+- Facilitator of Statistics Education Reading Group 2021-22 and 2022-23
+
+- Member of Biostatistics Department EDI Teaching Working Group 2020-21 and 2021-22
+
+**Grinnell College**
+
+- President of Mathematics Student Educational Policy Committee 2017-18
+
+### Other
+
+**MAT 295: Introduction to Data Science**, Grinnell College, Spring 2018, Grader
+        
+ **MAT 310: Statistical Modeling**, Grinnell College, Fall 2017, Grader
+
+**MAT 209: Applied Statistics**, Grinnell College, Fall 2015, Course Mentor

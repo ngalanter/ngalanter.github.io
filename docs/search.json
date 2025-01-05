@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nina Galanter",
+    "section": "",
+    "text": "I am a Ph.D. candidate in the University of Washington Department of Biostatistics advised by Marco Carone and Alex Luedtke. My research interests include methods for health systems and health policy research, causal inference, analysis of EHR data, and survival analysis. My dissertation research, previously supported by an NSF Graduate Research Fellowship, is on causal inference methods for individualized treatment rules. My collaborative research includes the analysis of a clinical trial studying an intervention intended to promote goals-of-care discussions between patients and providers in a palliative care setting; this work is supervised by Lyn Brumback. I am also collaborating with researchers at the UW Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute on a retrospective cohort study using healthcare claims data.\nIn addition to research, I am invested in teaching statistical and epidemiology concepts at an undergraduate and graduate level. I served as the instructor for a undergraduate course on regression methods for public health, have created and facilitated three guided reading projects for students, and served as a teaching assistant for several courses. See my teaching page for more details.\nBefore beginning my Ph.D., I graduated with a B.A. in Mathematics from Grinnell College and spent a year as an Americorps VISTA volunteer."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor\nBIOST 311: Regression Methods in the Health Sciences, University of Washington, Spring 2023, Course materials\n\n\nMentor\nStatistics Directed Reading Program, University of Washington\n\nWinter 2025 Topic: Target Trial Framework for Causal Inference\nWinter and Fall 2023 Topic: Survival Analysis\nWinter and Spring 2022 Topic: Optimal Treatment Rules\n\n\n\nTeaching Assistant\nBIOST 536: Categorical Data Analysis in Epidemiology, University of Washington, Fall 2024\nIntroduction to Survival Analysis, University of Washington Summer Institute in Statistics for Clinical & Epidemiological Research, Summer 2024\nBIOST 537: Survival Data Analysis in Epidemiology, University of Washington, Winter 2023\nBIOST 310: Biostatistics for the Health Sciences, University of Washington, Winter 2022, Winter 2020, Fall 2019\n\n\nTeaching Related Service\nUniversity of Washington\n\nMember of Biostatistics Department Curriculum Committee 2023-24 and 2024-25\nFacilitator of Statistics Education Reading Group 2021-22 and 2022-23\nMember of Biostatistics Department EDI Teaching Working Group 2020-21 and 2021-22\n\nGrinnell College\n\nPresident of Mathematics Student Educational Policy Committee 2017-18\n\n\n\nOther\nMAT 295: Introduction to Data Science, Grinnell College, Spring 2018, Grader\nMAT 310: Statistical Modeling, Grinnell College, Fall 2017, Grader\nMAT 209: Applied Statistics, Grinnell College, Fall 2015, Course Mentor"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Galanter, N., Carone, M., Kessler, R.C., Luedtke, A. (2024). Can the potential benefit of individualizing treatment be assessed using trial summary statistics alone? American Journal of Epidemiology.\nWu, J., Galanter, N., Shortreed, S. M., Moodie, E. E. M. (2022). Ranking tailoring variables for constructing individualized treatment rules: an application to schizophrenia. Journal of the Royal Statistical Society: Series C.\nGalanter, N., Silva, D., Jr., & Rowell, J., Rychtář, J. (2017). Resource Competition Amid Overlapping Territories: The Territorial Raider Model Applied to Multi-Group Interactions. Journal of Theoretical Biology.\nGalanter, N., Silva, D., Jr., Rychtář, J., & Rowell, J. (2016). The Territorial Raider Game and Graph Derangements. Discrete Applied Mathematics."
+  }
+]
