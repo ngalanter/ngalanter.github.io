@@ -3,6 +3,4 @@ title: "CV"
 ---
 
 
-[Download CV](https://www.biostat.washington.edu/sites/default/files/users/NGalanterCV_march2025.pdf)
-
-![](NGalanterCV_march2025.pdf){width=100% height=6in}
+![](NGalanterCV_july2025.pdf){width=100% height=6in}
