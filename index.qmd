@@ -1,6 +1,9 @@
 ---
-title: "Nina Galanter"
-subtitle: "they/she"
+title: Nina Galanter
+subtitle: |
+ | they/she
+ | (NEE-nah GAL-an-ter)
+
 about:
   template: solana
   image: ng_pic.jpg

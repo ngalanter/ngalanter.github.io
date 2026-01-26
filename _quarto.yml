@@ -17,8 +17,7 @@ website:
 
 format:
   html:
-    theme: sandstone
-    linkcolor: "#008ae6"
+    theme: yeti
     css: styles.css
     toc: true
     
