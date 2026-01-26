@@ -1,6 +1,7 @@
 ---
 title: Nina Galanter
 subtitle: |
+ | Postdoctoral Scholar, Memorial Sloan Kettering Cancer Center
  | they/she
  | (NEE-nah GAL-an-ter)
 
@@ -19,6 +20,12 @@ about:
     - icon: github
       text: Github
       href: https://github.com/ngalanter
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/ninagalanter/
+    - icon: person-vcard-fill
+      text: ORCID
+      href: https://orcid.org/0000-0002-2185-1344
 ---
 
 I am a postdoctoral researcher in the [Department of Epidemiology and Biostatistics](https://www.mskcc.org/departments/epidemiology-biostatistics) at Memorial Sloan Kettering Cancer Center. I recently graduated with a Ph.D. from the University of Washington [Department of Biostatistics](https://www.biostat.washington.edu/), advised by [Marco Carone](http://faculty.washington.edu/mcarone/about.html) and [Alex Luedtke](http://www.alexluedtke.com/). My research interests include methods for health systems and health policy research, causal inference, analysis of EHR data, and survival analysis. 

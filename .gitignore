@@ -5,3 +5,5 @@ ngalanter.github.io.Rproj
 .Rhistory
 
 /.quarto/
+
+**/*.quarto_ipynb
