@@ -12,7 +12,8 @@
     "teaching.html": "1a8e100d"
   },
   "cv.qmd": {
-    "cv.html": "696eafac"
+    "cv.html": "696eafac",
+    "cv.tex": "e12e2255"
   },
   "publications.qmd": {
     "publications.html": "c84453a5"
