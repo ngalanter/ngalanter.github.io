@@ -240,13 +240,15 @@ pres_update_start
 | **Efficient Communication in Distributed Machine Learning**
 | Grinnell Mathematics and Statistics Student Seminars, Grinnell, IA, February 6, 2018
 | Nebraska Conf. for Undergraduate Women in Mathematics, Lincoln, NE, January 27, 2018
-|
 
-::: {.content-hidden unless-format="pdf"}
-\pagebreak
+::: {.content-hidden when-format="html"}
+\pagebreak 
+:::
+::: {.content-hidden unless-format="html"}
+<br>
 :::
 
-|
+
 | **Machine Learning for the Classification of Toxicological Effects**
 | Joint Mathematics Meetings, Atlanta, GA, January 7, 2017
 | Grinnell Mathematics and Statistics Student Seminars, Grinnell, IA, September 14, 2016
