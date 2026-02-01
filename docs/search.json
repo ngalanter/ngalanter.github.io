@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nina Galanter",
+    "section": "",
+    "text": "I am a postdoctoral researcher in the Department of Epidemiology and Biostatistics at Memorial Sloan Kettering Cancer Center. I recently graduated with a Ph.D. from the University of Washington Department of Biostatistics, advised by Marco Carone and Alex Luedtke. My research interests include methods for health systems and health policy research, causal inference, analysis of EHR data, and survival analysis.\nMy dissertation research, previously supported by an NSF Graduate Research Fellowship, was on causal inference methods for individualized treatment rules. My collaborative research included the analysis of a clinical trial studying an intervention intended to promote goals-of-care discussions between patients and providers in a palliative care setting; this work was supervised by Lyn Brumback. I also collaborated with researchers at the UW Comparative Health Outcomes, Policy, and Economics (CHOICE) Institute on a retrospective cohort study using healthcare claims data.\nIn addition to research, I am invested in teaching statistical and epidemiology concepts at an undergraduate and graduate level. I served as the instructor for an undergraduate course on regression methods for public health, as a co-instructor for a graduate-level data analysis course, created and facilitated three guided reading projects for students, and as a teaching assistant for several courses. See my teaching page for more details.\nBefore beginning my Ph.D., I graduated with a B.A. in Mathematics from Grinnell College and spent a year as an Americorps VISTA volunteer."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor\nBIOST 579: Data Analysis and Reporting, University of Washington, Spring 2025 (Co-instructor)\nBIOST 311: Regression Methods in the Health Sciences, University of Washington, Spring 2023, Course materials\n\n\nMentor\nStatistics Directed Reading Program, University of Washington\n\nWinter 2025 Topic: Target Trial Framework for Causal Inference\nWinter and Fall 2023 Topic: Survival Analysis\nWinter and Spring 2022 Topic: Optimal Treatment Rules\n\n\n\nTeaching Assistant\nBIOST 536: Categorical Data Analysis in Epidemiology, University of Washington, Fall 2024\nIntroduction to Survival Analysis, University of Washington Summer Institute in Statistics for Clinical & Epidemiological Research, Summer 2024\nBIOST 537: Survival Data Analysis in Epidemiology, University of Washington, Winter 2023\nBIOST 310: Biostatistics for the Health Sciences, University of Washington, Winter 2022, Winter 2020, Fall 2019\n\n\nTeaching Related Service\nUniversity of Washington\n\nMember of Biostatistics Department Curriculum Committee 2023-24 and 2024-25\nFacilitator of Statistics Education Reading Group 2021-22 and 2022-23\nMember of Biostatistics Department EDI Teaching Working Group 2020-21 and 2021-22\n\nGrinnell College\n\nPresident of Mathematics Student Educational Policy Committee 2017-18\n\n\n\nOther\nMAT 295: Introduction to Data Science, Grinnell College, Spring 2018, Grader\nMAT 310: Statistical Modeling, Grinnell College, Fall 2017, Grader\nMAT 209: Applied Statistics, Grinnell College, Fall 2015, Course Mentor"
+  },
+  {
+    "objectID": "old_publications_backup.html",
+    "href": "old_publications_backup.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Statistical Methods\nGalanter, N. , Carone, M., Kessler, R.C., Luedtke, A. (2024). Can the potential benefit of individualizing treatment be assessed using trial summary statistics alone? American Journal of Epidemiology.\nWu, J., Galanter, N. , Shortreed, S. M., Moodie, E. E. M. (2022). Ranking tailoring variables for constructing individualized treatment rules: an application to schizophrenia. Journal of the Royal Statistical Society: Series C.\n\n\nPublic Health and Medicine\nPernikoff, S., Clurman, A., Rötepohl, M., Galanter, N., Bibby, M., Harris, E., Stevens-Ayers, T., Xie, H., Ueda Oshima, M, Cheng, G.S, Englund, J.A.,Boeckh, M.J., Boonyaratanakornkit, J. (2026, January). Respiratory Syncytial Virus in Hematopoietic Cell Transplant Recipients: Clinical and Humoral Risk Factors for Infection. Open Forum Infectious Diseases\nBhardwaj, S., Galanter, N. , Berenbrok, L.A., Shah P.D, Bacci, J.L. (2025). Pediatric Vaccination in Pharmacies is not Associated with Delayed Well-Child Visits Among Commercially Insured Children. Health Affairs Scholar.\n\n\nOther\nGalanter, N. , Silva, D., Jr., & Rowell, J., Rychtář, J. (2017). Resource Competition Amid Overlapping Territories: The Territorial Raider Model Applied to Multi-Group Interactions. Journal of Theoretical Biology.\nGalanter, N. , Silva, D., Jr., Rychtář, J., & Rowell, J. (2016). The Territorial Raider Game and Graph Derangements. Discrete Applied Mathematics."
+  },
+  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Curriculum Vitae",
@@ -54,20 +75,6 @@
     "title": "Curriculum Vitae",
     "section": "PROFESSIONAL SERVICE",
     "text": "PROFESSIONAL SERVICE\n\nUniversity of Washington\nMember, Biostatistics Curriculum Committee, September 2023 – June 2025\nMember, Biostatistics Equity, Diversity, and Inclusion Committee, September 2019 – June 2025\nMember, Biostatistics Activities and Events Squad, February 2019 – June 2025\nFacilitator, Biostatistics Student Seminar, September 2022 – June 2024\nFacilitator, Statistical Education Reading Group, January 2022 – June 2023\nCo-leader, Statisticians and Biostatisticians of Underrepresented Genders, October 2020 – June 2023\nMember, Admissions Committee, September 2022 – March 2023\nSenator, Graduate and Professional Student Senate, September 2019 – June 2020; September 2021 – June 2022\n\n\nGrinnell College\nPresident, Mathematics Student Educational Policy Committee, August 2017 – May 2018\nMember, Mathematics Student Educational Policy Committee, August 2016 – December 2016\n\n\nReviewer\nBiometrics\nJournal of the Royal Statistical Society Series C\n \nHTML/PDF formatting option inspired by this page."
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "Instructor\nBIOST 579: Data Analysis and Reporting, University of Washington, Spring 2025 (Co-instructor)\nBIOST 311: Regression Methods in the Health Sciences, University of Washington, Spring 2023, Course materials\n\n\nMentor\nStatistics Directed Reading Program, University of Washington\n\nWinter 2025 Topic: Target Trial Framework for Causal Inference\nWinter and Fall 2023 Topic: Survival Analysis\nWinter and Spring 2022 Topic: Optimal Treatment Rules\n\n\n\nTeaching Assistant\nBIOST 536: Categorical Data Analysis in Epidemiology, University of Washington, Fall 2024\nIntroduction to Survival Analysis, University of Washington Summer Institute in Statistics for Clinical & Epidemiological Research, Summer 2024\nBIOST 537: Survival Data Analysis in Epidemiology, University of Washington, Winter 2023\nBIOST 310: Biostatistics for the Health Sciences, University of Washington, Winter 2022, Winter 2020, Fall 2019\n\n\nTeaching Related Service\nUniversity of Washington\n\nMember of Biostatistics Department Curriculum Committee 2023-24 and 2024-25\nFacilitator of Statistics Education Reading Group 2021-22 and 2022-23\nMember of Biostatistics Department EDI Teaching Working Group 2020-21 and 2021-22\n\nGrinnell College\n\nPresident of Mathematics Student Educational Policy Committee 2017-18\n\n\n\nOther\nMAT 295: Introduction to Data Science, Grinnell College, Spring 2018, Grader\nMAT 310: Statistical Modeling, Grinnell College, Fall 2017, Grader\nMAT 209: Applied Statistics, Grinnell College, Fall 2015, Course Mentor"
-  },
-  {
-    "objectID": "old_publications_backup.html",
-    "href": "old_publications_backup.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Statistical Methods\nGalanter, N. , Carone, M., Kessler, R.C., Luedtke, A. (2024). Can the potential benefit of individualizing treatment be assessed using trial summary statistics alone? American Journal of Epidemiology.\nWu, J., Galanter, N. , Shortreed, S. M., Moodie, E. E. M. (2022). Ranking tailoring variables for constructing individualized treatment rules: an application to schizophrenia. Journal of the Royal Statistical Society: Series C.\n\n\nPublic Health and Medicine\nPernikoff, S., Clurman, A., Rötepohl, M., Galanter, N., Bibby, M., Harris, E., Stevens-Ayers, T., Xie, H., Ueda Oshima, M, Cheng, G.S, Englund, J.A.,Boeckh, M.J., Boonyaratanakornkit, J. (2026, January). Respiratory Syncytial Virus in Hematopoietic Cell Transplant Recipients: Clinical and Humoral Risk Factors for Infection. Open Forum Infectious Diseases\nBhardwaj, S., Galanter, N. , Berenbrok, L.A., Shah P.D, Bacci, J.L. (2025). Pediatric Vaccination in Pharmacies is not Associated with Delayed Well-Child Visits Among Commercially Insured Children. Health Affairs Scholar.\n\n\nOther\nGalanter, N. , Silva, D., Jr., & Rowell, J., Rychtář, J. (2017). Resource Competition Amid Overlapping Territories: The Territorial Raider Model Applied to Multi-Group Interactions. Journal of Theoretical Biology.\nGalanter, N. , Silva, D., Jr., Rychtář, J., & Rowell, J. (2016). The Territorial Raider Game and Graph Derangements. Discrete Applied Mathematics."
   },
   {
     "objectID": "old_cv_backup.html",
