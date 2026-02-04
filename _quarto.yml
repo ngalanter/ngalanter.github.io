@@ -17,7 +17,7 @@ website:
 
 format:
   html:
-    theme: yeti
+    theme: [cerulean, custom.scss]
     css: styles.css
     toc: false
     
